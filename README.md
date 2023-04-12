@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/razan96920780" target="blank"><img src="https://img.shields.io/twitter/follow/razan96920780?logo=twitter&style=for-the-badge" alt="razan96920780" /></a> </p>
 
-- 🔭 I’m currently working on [Betaqatcom](https://betaqatcom.it-appsfactory.com/login)
+- 🔭 I’m currently working on [HGAcademy](https://hga.school)
 
 - 🌱 I’m currently learning **Vuejs3**
 
