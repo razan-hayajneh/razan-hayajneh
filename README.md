@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/razan96920780" target="blank"><img src="https://img.shields.io/twitter/follow/razan96920780?logo=twitter&style=for-the-badge" alt="razan96920780" /></a> </p>
 
-- 🔭 I’m currently working on [POS](https://fuelpaysa.com/)
+- 🔭 I’m currently working on [Fuelpaysa](https://fuelpaysa.com/)
 
 - 🌱 I’m currently learning **Liveware**
 
