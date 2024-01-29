@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **Liveware**
 
-- 👯 I collaborate on **It-AppsFactory**
+- 👯 I collaborate on **[It-AppsFactory](http://it-appsfactory.com/)**
+
+- 🔭 I had collaborated on [HGAcademy](https://hga.school) , [Betaqatcom](https://betaqatcom.it-appsfactory.com/login) , [NAVASERVICES](https://www.navaservices.net/),
 
 - 📫 How to reach me **razanhasan091@gmail.com**
 
