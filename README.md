@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eng. Razan Hayajneh</h1>
-<h3 align="center">Full Stack Developer(Mobile and Web Development)</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razan-hayajneh&label=Profile%20views&color=0e75b6&style=flat" alt="razan-hayajneh" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/razan96920780" target="blank"><img src="https://img.shields.io/twitter/follow/razan96920780?logo=twitter&style=for-the-badge" alt="razan96920780" /></a> </p>
 
-- 🔭 I’m currently working on **[Sharwat](https://cms.shrwat.com), [Fuelpaysa](https://fuelpaysa.com/)**
+- 🔭 I’m currently working as [Freelancer](https://www.upwork.com/freelancers/~019ee625f0f0bbeba6)
 
 - 🌱 I’m currently learning **Liveware**
 
-- 👯 I collaborate on **[It-AppsFactory](http://it-appsfactory.com/)**
-
 - 📫 How to reach me **razanhasan091@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/razan-hayajneh/razan-hayajneh/blob/main/RazanHayajnehResume-.pdf](https://github.com/razan-hayajneh/razan-hayajneh/blob/main/RazanHayajnehResume-.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
