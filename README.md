@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/razan96920780" target="blank"><img src="https://img.shields.io/twitter/follow/razan96920780?logo=twitter&style=for-the-badge" alt="razan96920780" /></a> </p>
 
-- 🔭 I’m currently working as [Freelancer](https://www.upwork.com/freelancers/~019ee625f0f0bbeba6)
+- 🔭 I’m currently working as [Fikra-it](https://www.fikra-it.com)
 
 - 🌱 I’m currently learning **Liveware**
 
 - 📫 How to reach me **razanhasan091@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/razan-hayajneh/razan-hayajneh/blob/main/RazanHayajnehResume-.pdf](https://github.com/razan-hayajneh/razan-hayajneh/blob/main/RazanHayajnehResume-.pdf)
+- 📄 Know about my experiences in MY [[CV](https://github.com/razan-hayajneh/razan-hayajneh/blob/main/RazanCV.pdf)](https://github.com/razan-hayajneh/razan-hayajneh/blob/main/RazanHayajnehResume-.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
